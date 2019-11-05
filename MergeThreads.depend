@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1572631434 source:/media/ahmed/C8ACE66DACE6558A/Local Disk(E)/College projects/OS_Threads/MergeThreads/4572-sort.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
+1572631434 source:/media/ahmed/C8ACE66DACE6558A/Local Disk(E)/College projects/OS_Threads/MergeThreads/sort.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
